@@ -5,4 +5,5 @@
 3. [Gráf](https://cses.fi/problemset/task/1684/) - Graph problem on CSES
 4. [Dinamikus](https://www.hackerrank.com/challenges/kingdom-division/problem?isFullScreen=true) - Dynamic programming problem on HackerRank
 
+5. SPOJ - TBD
 
